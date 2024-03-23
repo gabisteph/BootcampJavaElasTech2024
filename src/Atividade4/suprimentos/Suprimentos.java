@@ -1,4 +1,4 @@
-package suprimentos;
+package Atividade4.suprimentos;
 
 public class Suprimentos {
     private int id;

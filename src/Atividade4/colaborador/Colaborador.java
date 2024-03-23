@@ -1,4 +1,4 @@
-package colaborador;
+package Atividade4.colaborador;
 
 public class Colaborador {
     // Atributos

@@ -1,4 +1,4 @@
-package suprimentos;
+package Atividade4.suprimentos;
 
 public class Main {
     public static void main(String[] args) {
